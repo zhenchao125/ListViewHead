@@ -6,5 +6,7 @@ package com.qianfeng.listviewhead;
 public class User{
     private int age;
     private int id;
+
+    //注释
     //远程注释
 }
